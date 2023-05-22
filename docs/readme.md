@@ -37,14 +37,12 @@ Extract the private SSH key
 terraform output -raw private_key >key.pem
 chmod 400 key.pem
 ```
-Copy the key to your test box
+Access your Jumpbox
 ```
-
+ssh -i ./key.pem ubuntu@34.253.70.4
 ```
 Test connectivity
-```
 
-```
 
 ## 4. Deploy fortigatecnf
 ### Install / verify cross account setup
