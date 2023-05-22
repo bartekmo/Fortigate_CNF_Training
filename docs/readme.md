@@ -39,7 +39,7 @@ chmod 400 key.pem
 ```
 Access your Jumpbox
 ```
-ssh -i ./key.pem ubuntu@34.253.70.4
+ssh -i ./key.pem ubuntu@<jumpbox>
 ```
 Test connectivity
 
