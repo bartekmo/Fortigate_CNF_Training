@@ -29,11 +29,13 @@ git clone https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git
 ```
 Deploy the environment
 ```
-
+terraform init
+terraform apply
 ```
 Extract the private SSH key
 ```
-
+terraform output -raw private_key >key.pem
+chmod 400 key.pem
 ```
 Copy the key to your test box
 ```
