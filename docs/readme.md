@@ -10,17 +10,15 @@ studentcnp / StudentCNPxx666
 student20@kubiosec.tech / Stud3ntCNP!
 ```
 
-
 ## 2. Prepare a LAB environment
-### Cloud9 AWS environment
-Use region `eu-west-1` (ireland)
-```
-
-```
 ### Create an ACCESSKEY ID / SECRET
-```
+Use region `eu-west-1` (ireland)<br>
+Login the AWS console and access key and secret under the IAM user `studentcnp`
 
-```
+### Cloud9 AWS environment
+Use region `eu-west-1` (ireland) <br>
+Create an AWS Cloud9 instance.
+
 ### Subscribe to the ubuntu-jammy
 ```
 
