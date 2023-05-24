@@ -23,7 +23,7 @@ Create an AWS Cloud9 instance.
 Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and subscribe and accept the terms.
 
 ### Clone the LAB direcotry 
-Clone folowing repo
+Clone following repo
 ```
 git clone https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git
 ```
