@@ -11,13 +11,13 @@ student<xx>@kubiosec.tech / <see your instructor>
 ```
 
 ## 2. Prepare a LAB environment
-### Create an AWS access key and secret
-Login the AWS console and create an **access key** and **secret** under the IAM user `studentcnp`<br>
-Note the access key and secret.
-
 ### Cloud9 AWS environment
 Use region `eu-west-1` (ireland) <br>
 Create an AWS Cloud9 instance.
+
+### Create an AWS access key and secret
+Login the AWS console and create an **access key** and **secret** under the IAM user `studentcnp`<br>
+Note the access key and secret.
 
 ### Subscribe to the ubuntu-jammy
 Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and subscribe and accept the terms.
