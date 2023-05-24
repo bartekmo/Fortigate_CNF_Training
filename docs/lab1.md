@@ -1,4 +1,4 @@
-# LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
+# LAB 1: intra-subnet single vpc use case
 
 ## Deploy the environment
 Inside the cloned repo:
