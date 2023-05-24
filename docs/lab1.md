@@ -35,8 +35,17 @@ xxxx
 - create a dynamic address group
 - checkout the routing
 
-## 6. remove the FortigateCNF  / playgroung
+## 6. Cleanup for next lab
+### Remove the CNF instance
+Remove CNF instance in the Fortigate CNF UI
 
-## 7. Deploy the terraform in intra-subnet / TGW envirnment
+### Remove AWS account from Fortigate CNF
 
-## Cleanup for the next session
+### Remove the CFT
+
+### Destroy playground
+```
+terraform destroy
+```
+
+
