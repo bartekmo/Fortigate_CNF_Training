@@ -7,7 +7,7 @@ studentcnp / StudentCNPxx666
 ```
 ### Forticloud / FortigateCNF
 ```
-student20@kubiosec.tech / Stud3ntCNP!
+student<xx>@kubiosec.tech / Stud3ntCNP!
 ```
 
 ## 2. Prepare a LAB environment
