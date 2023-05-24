@@ -22,8 +22,8 @@ Create an AWS Cloud9 instance.
 ### Subscribe to the ubuntu-jammy
 Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and subscribe and accept the terms.
 
-### Clone the LAB direcotry 
-Clone following repo
+### Clone the LAB repo 
+Clone following repo in `/environment` in your Cloud9 env
 ```
 git clone https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git
 ```
