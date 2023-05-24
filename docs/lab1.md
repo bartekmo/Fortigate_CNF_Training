@@ -1,6 +1,6 @@
-## LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
+# LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
 
-### Deploy the environment
+## Deploy the environment
 Inside the cloned repo:
 ```
 cd ./terraform-single-vpc
@@ -20,7 +20,7 @@ ssh -i ./key.pem ubuntu@<jumpbox>
 ```
 
 
-## 4. Deploy fortigatecnf
+## Deploy fortigatecnf
 ### Install / verify cross account setup
 xxxx
 ### Deploy fortigatecnf
@@ -30,12 +30,12 @@ xxxx
 ### Test connectivity
 xxxx
 
-## 5. Create a policy set
+## Create a policy set
 - ex. allow traffic to port 8080 and blcok 8090
 - create a dynamic address group
 - checkout the routing
 
-## 6. Cleanup for next lab
+## Cleanup for next lab
 ### Remove the CNF instance
 Remove CNF instance in the Fortigate CNF UI
 
