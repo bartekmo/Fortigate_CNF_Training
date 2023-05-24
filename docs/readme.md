@@ -39,4 +39,5 @@ link lab2
 - remove all registered accounts
 - remove cloudformation 
 - destroy your terraform infra
+- remove the access key and secret (NOT the IAM user !!)
 
