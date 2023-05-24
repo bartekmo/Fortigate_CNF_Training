@@ -1,4 +1,4 @@
-# LAB 2: Deploy a fortigatecnf playground for transit gateway centralised inspection
+# LAB 2: transit gateway centralised inspection use-case
 
 ## Deploy the environment
 Inside the cloned repo:
@@ -18,7 +18,6 @@ Access your Jumpbox
 ```
 ssh -i ./key.pem ubuntu@<jumpbox>
 ```
-
 
 ## Deploy fortigatecnf
 ### Install / verify cross account setup
