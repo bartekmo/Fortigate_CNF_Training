@@ -1,7 +1,10 @@
-## LAB 1
+## LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
 
+### Deploy the environment
+Inside the cloned repo:
 ```
-Deploy the environment
+cd ./terraform-single-vpc
+```
 ```
 terraform init
 terraform apply
@@ -15,7 +18,6 @@ Access your Jumpbox
 ```
 ssh -i ./key.pem ubuntu@<jumpbox>
 ```
-Test connectivity
 
 
 ## 4. Deploy fortigatecnf
