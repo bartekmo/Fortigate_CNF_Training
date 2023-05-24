@@ -3,11 +3,11 @@
 ## 1. Verify access
 ### AWS Console
 ```
-studentcnp / StudentCNPxx666
+studentcnp / <see your instructor>
 ```
 ### Forticloud / FortigateCNF
 ```
-student<xx>@kubiosec.tech / Stud3ntCNP!
+student<xx>@kubiosec.tech / <see your instructor>
 ```
 
 ## 2. Prepare a LAB environment
