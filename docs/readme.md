@@ -3,7 +3,7 @@
 ## 1. Verify access
 ### AWS Console
 ```
-studentcnp / <see your instructor>
+account_id / studentcnp / <see your instructor>
 ```
 ### Forticloud / FortigateCNF
 ```
