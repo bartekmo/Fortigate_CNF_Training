@@ -18,7 +18,7 @@ Access your Jumpbox
 ```
 ssh -i ./key.pem ubuntu@<jumpbox>
 ```
-
+You can use this key to access all the other hosts in the labs. Simply copy the key and put the permissions correctly.
 
 ## Deploy fortigatecnf
 ### Install / verify cross account setup
