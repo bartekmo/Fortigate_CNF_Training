@@ -32,12 +32,16 @@ git clone https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git
 See [lab1](./lab1.md)
 
 ## LAB 2: Deploy a fortigatecnf playground fortransit gateway use-case
-link lab2
+See [lab2](./lab2.md)
 
 ### CLEANUP 
-- remove all Fortigate CNF instances
-- remove all registered accounts
-- remove cloudformation 
+At the end of our session: 
+- remove the endpoints form your TF `variables.tf`
+- re-run your TF
 - destroy your terraform infra
+- remove all Fortigate CNF instancesfrom the Fortigate CNF UI
+- remove all registered accounts from the Fortigate CNF UI
+- remove cloudformation `FortinetFWaaSCrossAccountSetup` from AWS region `Oregon`
 - remove the access key and secret (NOT the IAM user !!)
+- remove everything you created additionally
 
