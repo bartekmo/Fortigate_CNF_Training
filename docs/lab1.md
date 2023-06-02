@@ -22,7 +22,7 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 
 ## Deploy fortigatecnf
 - Install / verify cross account setup
-- Deploy fortigatecnf and enpoints
+- Deploy fortigatecnf and endpoints
 - Test connectivity
 - Update the TF script with GWLBe and re-run TF
 - Test connectivity
