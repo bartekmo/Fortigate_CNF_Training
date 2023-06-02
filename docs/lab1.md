@@ -34,8 +34,7 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 - ...
 
 ## Cleanup for next lab
-- remove GWLBe from TF `variables.tf` and rerun
-- re-run TF
+- remove GWLBe from TF `variables.tf` and re-run TF
 - remove endpoint form Fortigate CNF UI
 - Destroy playground
 
