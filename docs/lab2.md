@@ -27,8 +27,6 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 - Test connectivity
 
 ## Create a policy set
-- ex. allow traffic to port 8080 and blcok 8090
-- create a dynamic address group
 - checkout the routing
 
 ## Cleanup
