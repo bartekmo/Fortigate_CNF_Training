@@ -43,5 +43,6 @@ At the end of our session:
 - remove all registered accounts from the Fortigate CNF UI
 - remove cloudformation `FortinetFWaaSCrossAccountSetup` from AWS region `Oregon`
 - remove the access key and secret (NOT the IAM user !!)
-- remove everything you created additionally
+- remove your Cloud9 instance
 
+Thx, the next Student will thank you as well as the instructor who knows your name ;-)
