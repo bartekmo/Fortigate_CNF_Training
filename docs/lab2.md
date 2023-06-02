@@ -32,6 +32,6 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 - checkout the routing
 
 ## Cleanup
-See [Home)[./readme.md]
+See [Home)(./readme.md)
 
 
