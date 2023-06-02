@@ -45,4 +45,4 @@ At the end of our session:
 - remove the access key and secret (NOT the IAM user !!)
 - remove your Cloud9 instance
 
-Thx, the next Student will thank you as well as the instructor who knows your name ;-)
+Thx, the next student will thank you as well as the instructor who knows your name ;-)
