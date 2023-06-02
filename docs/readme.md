@@ -29,7 +29,7 @@ git clone https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git
 ```
 
 ## LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
-See [./lab1.md](./lab1.md)
+See [lab1](./lab1.md)
 
 ## LAB 2: Deploy a fortigatecnf playground fortransit gateway use-case
 link lab2
