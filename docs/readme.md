@@ -20,7 +20,7 @@ Login the AWS console and create an **access key** and **secret** under the IAM 
 Note the access key and secret.
 
 ### Subscribe to the ubuntu-jammy
-Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and subscribe and accept the terms.
+Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and subscribe and accept the terms. Subscribe this too 'https://aws.amazon.com/marketplace/pp/prodview-o5bowpuwmx3ng'
 
 ### Clone the LAB repo 
 Clone following repo in `/environment` in your Cloud9 env
