@@ -24,7 +24,7 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 - Install / verify cross account setup
 - Deploy fortigatecnf and endpoints
 - Test connectivity
-- Update the TF script (variables.tf) with GWLBe and re-run TF
+- Update the "variables.tf" with GWLBe name (not ID value) and re-apply Terraform.
 - Test connectivity
 
 ## Things to try
