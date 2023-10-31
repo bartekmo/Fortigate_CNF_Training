@@ -1,7 +1,7 @@
 # LAB 1: intra-subnet single vpc use case
 
 ## Deploy the environment
-Inside the cloned repo:
+Inside cloned repo, access the folder below:
 ```
 cd ./fortigate-cnf-sse-workshop/terraform-single-vpc
 ```
@@ -14,17 +14,17 @@ Extract the private SSH key
 terraform output -raw private_key >key.pem
 chmod 400 key.pem
 ```
-Access your Jumpbox
+Access to Jumpbox, so we can access test EC2s
 ```
 ssh -i ./key.pem ubuntu@<jumpbox>
 ```
-You can use this key to access all the other hosts in the labs. Simply copy the key and set the correct permissions.
+You can use this key to access all the other hosts in the labs. Simply copy the key (SCP) and set the correct permissions.
 
-## Deploy fortigatecnf
+## Deploy FortiGate CNF
 - Install / verify cross account setup
-- Deploy fortigatecnf and endpoints
+- Deploy FortiGate CNF and GWLB endpoints
 - Test connectivity
-- Update the "variables.tf" with GWLBe name (not ID value) and re-apply Terraform.
+- Update the "variables.tf" using GWLBe name (not the ID) and re-apply Terraform.
 - Test connectivity
 
 ## Things to try
@@ -34,8 +34,8 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 - ...
 
 ## Cleanup for next lab
-- remove GWLBe from TF `variables.tf` and re-run TF
-- remove endpoint form Fortigate CNF UI
+- Remove GWLBe name value from TF `variables.tf` and re-apply TF
+- Remove GWLB endpoint form FortiGate CNF UI
 - Destroy playground
 
 
