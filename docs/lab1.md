@@ -40,7 +40,7 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 - checkout the routing
 - ...
 
-## 1.4 Cleanup for next lab
+## 1.4 Clean-up for next lab
 - Remove GWLBe name value from TF `variables.tf` and re-apply TF
 - Remove GWLB endpoint form FortiGate CNF UI
 - Destroy playground
