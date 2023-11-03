@@ -5,6 +5,9 @@ Inside cloned repo, access the folder below:
 ```
 cd ./fortigate-cnf-sse-workshop/terraform-single-vpc
 ```
+
+For first deployment of the lab, use a random FortiFlex token ID, because we will do another "terraform apply" in later stage.
+
 ```
 terraform init
 terraform apply
@@ -24,7 +27,7 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 - Install / verify cross account setup
 - Deploy FortiGate CNF and GWLB endpoints
 - Test connectivity
-- Update the "variables.tf" using GWLBe name (not the ID) and re-apply Terraform.
+- Update the "variables.tf" using GWLBe name (not the ID) and Re-apply Terraform. **You should use a valid FortiFlex token to proceed.**
 - Test connectivity
 
 ## Things to try
