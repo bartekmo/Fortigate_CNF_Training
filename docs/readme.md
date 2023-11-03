@@ -11,7 +11,8 @@ account_id / studentxpert / <password will be shared during session>
 student<xx>@kubiosec.tech / <password will be shared during session>
 ```
 
-## 2. Prepare a LAB environment
+## 2. Prepare the lab environment
+
 ### Cloud9 AWS environment
 Use region `eu-west-1` (ireland) <br>
 Create an AWS Cloud9 instance.
