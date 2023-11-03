@@ -5,6 +5,9 @@ Inside the cloned repo:
 ```
 cd ./fortigate-cnf-sse-workshop/terraform-tgw
 ```
+
+For first deployment of the lab, use a random FortiFlex token ID, because we will do another "terraform apply" in later stage.
+
 ```
 terraform init
 terraform apply
@@ -18,18 +21,17 @@ Access your Jumpbox
 ```
 ssh -i ./key.pem ubuntu@<jumpbox>
 ```
-You can use this key to access all the other hosts in the labs. Simply copy the key and set the correct permissions.
+You can use this key to access all the other hosts in the labs. Simply copy the key (SCP) and set the correct permissions.
 
-## Deploy fortigatecnf
+## Deploy FortiGate CNF
 - Install / verify cross account setup
-- Deploy fortigatecnf and endpoints
-- Update the TF script with GWLBe and re-run TF
+- Deploy FortiGate CNF and GWLB endpoints
+- Update the "variables.tf" using GWLBe name (not the ID)
+- Re-apply Terraform with **a valid FortiFlex token.** This FortiFlex token will activate license of FortiAnalyzer-VM.
 - Test connectivity
 
 ## Create a policy set
-- checkout the routing
+- Test the routing
 
-## Cleanup
+## Clean-up
 See [Home](./readme.md)
-
-
