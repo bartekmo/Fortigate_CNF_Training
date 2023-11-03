@@ -32,7 +32,7 @@ Click "Continue to Subscribe", then accept terms and conditions.
 ### 2.4 Clone the lab repository to Cloud9 instance 
 Clone following repo in `/environment` in your Cloud9 env
 ```
-git clone https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git
+git clone https://github.com/ozanoguz/fortigate-cnf-sse-workshop.git
 ```
 
 ## 3. Deploy lab environments
