@@ -23,8 +23,9 @@ Note the access key and secret for later usage.
 
 ### 2.3 Subscribe to following AWS Marketplace images
 Subsribe and accept terms for marketplace images below.
-**Ubuntu-Jammy**
+**Ubuntu-Jammy**[Ubuntu-Jammy](https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe)
 
+`https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe`
 `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe`
 
 **Ubuntu**
