@@ -24,9 +24,10 @@ Note the access key and secret for later usage.
 ### 2.3 Subscribe to following AWS Marketplace images
 
 [Ubuntu-Jammy](https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe)
-[Ubuntu](https://aws.amazon.com/marketplace/pp/prodview-o5bowpuwmx3ng)
-[FortiAnalyzer](https://aws.amazon.com/marketplace/pp/prodview-6dt7z5twj7t7a?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
 
+[Ubuntu](https://aws.amazon.com/marketplace/pp/prodview-o5bowpuwmx3ng)
+
+[FortiAnalyzer](https://aws.amazon.com/marketplace/pp/prodview-6dt7z5twj7t7a?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
 
 ### 2.4 Clone the lab repository to Cloud9 instance 
 Clone following repo in `/environment` in your Cloud9 env
