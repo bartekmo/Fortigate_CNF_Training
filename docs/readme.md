@@ -25,9 +25,11 @@ Subsribe and accept terms for marketplace images below.
 `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe`
 
 **Ubuntu**
+
 'https://aws.amazon.com/marketplace/pp/prodview-o5bowpuwmx3ng'
 
 **FortiAnalyzer**
+
 'https://aws.amazon.com/marketplace/pp/prodview-6dt7z5twj7t7a?sr=0-1&ref_=beagle&applicationId=AWSMPContessa'
 
 ### Clone the lab repository to Cloud9 instance 
