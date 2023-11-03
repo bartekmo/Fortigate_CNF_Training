@@ -1,11 +1,11 @@
 ## Fortigate CNF lab
 
 ## 1. Verify access
-### AWS Console
+### AWS Console login
 ```
 account_id / studentcnp / <see your instructor>
 ```
-### Forticloud / FortigateCNF
+### FortiCloud / FortigateCNF access
 ```
 student<xx>@kubiosec.tech / <see your instructor>
 ```
@@ -19,30 +19,38 @@ Create an AWS Cloud9 instance.
 Login the AWS console and create an **access key** and **secret** under the IAM user `studentcnp`<br>
 Note the access key and secret.
 
-### Subscribe to the ubuntu-jammy
-Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and subscribe and accept the terms. Subscribe this too 'https://aws.amazon.com/marketplace/pp/prodview-o5bowpuwmx3ng'
+### Subscribe to AWS Marketplace images
+Subsribe and accept terms for marketplace images below.
+**Ubuntu-Jammy**
+`https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe`
 
-### Clone the LAB repo 
+**Ubuntu**
+'https://aws.amazon.com/marketplace/pp/prodview-o5bowpuwmx3ng'
+
+**FortiAnalyzer**
+'https://aws.amazon.com/marketplace/pp/prodview-6dt7z5twj7t7a?sr=0-1&ref_=beagle&applicationId=AWSMPContessa'
+
+### Clone the lab repository to Cloud9 instance 
 Clone following repo in `/environment` in your Cloud9 env
 ```
 git clone https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git
 ```
 
-## LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
+## LAB 1: Deploy a FortiGate CNF playground for intra-subnet / single VPC scenario
 See [lab1](./lab1.md)
 
-## LAB 2: Deploy a fortigatecnf playground fortransit gateway use-case
+## LAB 2: Deploy a FortiGate CNF playground for Transit Gateway (TGW) use-case
 See [lab2](./lab2.md)
 
-### CLEANUP 
+### CLEAN-UP 
 At the end of our session: 
-- remove the endpoints form your TF `variables.tf`
-- re-run your TF
-- destroy your terraform infra
-- remove all Fortigate CNF instancesfrom the Fortigate CNF UI
-- remove all registered accounts from the Fortigate CNF UI
-- remove cloudformation `FortinetFWaaSCrossAccountSetup` from AWS region `Oregon`
-- remove the access key and secret (NOT the IAM user !!)
-- remove your Cloud9 instance
+- Remove the endpoints form your TF `variables.tf`
+- Re-apply your Terraform
+- Destroy your Terraform infrastructure
+- Remove all Fortigate CNF instances from the Fortigate CNF UI
+- Remove all registered accounts from the Fortigate CNF UI
+- Remove Cloudformation `FortinetFWaaSCrossAccountSetup` from AWS region `Oregon`
+- Remove the access key and secret (NOT the IAM user !!)
+- Remove your Cloud9 instance
 
-Thx, the next student will thank you as well as the instructor who knows your name ;-)
+Thanks, the next student will thank you as well as the instructor who knows your name ;-)
