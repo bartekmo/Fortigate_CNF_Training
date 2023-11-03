@@ -13,15 +13,15 @@ student<xx>@kubiosec.tech / <password will be shared during session>
 
 ## 2. Prepare the lab environment
 
-### Cloud9 AWS environment
-Use region `eu-west-1` (ireland) <br>
-Create an AWS Cloud9 instance.
+### 2.1 Cloud9 AWS environment
+Use AWS region `eu-west-1` (Ireland) <br>
+Create an AWS Cloud9 instance using AWS Cloud9 service.
 
-### Create an AWS access key and secret
-Login the AWS console and create an **access key** and **secret** under the IAM user `studentcnp`<br>
-Note the access key and secret.
+### 2.2 Create an AWS access key and secret
+Login the AWS console and create an **access key** and **secret** under the IAM user `studentxpert`<br>
+Note the access key and secret for later usage.
 
-### Subscribe to AWS Marketplace images
+### 2.3 Subscribe to following AWS Marketplace images
 Subsribe and accept terms for marketplace images below.
 **Ubuntu-Jammy**
 
@@ -35,16 +35,16 @@ Subsribe and accept terms for marketplace images below.
 
 'https://aws.amazon.com/marketplace/pp/prodview-6dt7z5twj7t7a?sr=0-1&ref_=beagle&applicationId=AWSMPContessa'
 
-### Clone the lab repository to Cloud9 instance 
+### 2.4 Clone the lab repository to Cloud9 instance 
 Clone following repo in `/environment` in your Cloud9 env
 ```
 git clone https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git
 ```
 
-## LAB 1: Deploy a FortiGate CNF playground for intra-subnet / single VPC scenario
+## LAB-1: Deploy a FortiGate CNF playground for Intra-subnet / Single VPC scenario
 See [lab1](./lab1.md)
 
-## LAB 2: Deploy a FortiGate CNF playground for Transit Gateway (TGW) use-case
+## LAB-2: Deploy a FortiGate CNF playground for Transit Gateway (TGW) use-case
 See [lab2](./lab2.md)
 
 ### CLEAN-UP 
