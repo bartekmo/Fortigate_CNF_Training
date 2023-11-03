@@ -1,13 +1,14 @@
 ## Fortigate CNF lab
 
 ## 1. Verify access
+
 ### AWS Console login
 ```
-account_id / studentcnp / <see your instructor>
+account_id / studentxpert / <password will be shared during session>
 ```
-### FortiCloud / FortigateCNF access
+### FortiCloud / FortigateCNF login
 ```
-student<xx>@kubiosec.tech / <see your instructor>
+student<xx>@kubiosec.tech / <password will be shared during session>
 ```
 
 ## 2. Prepare a LAB environment
