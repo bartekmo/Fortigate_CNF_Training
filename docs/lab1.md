@@ -27,7 +27,8 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 - Install / verify cross account setup
 - Deploy FortiGate CNF and GWLB endpoints
 - Test connectivity
-- Update the "variables.tf" using GWLBe name (not the ID) and Re-apply Terraform. **You should use a valid FortiFlex token to proceed.**
+- Update the "variables.tf" using GWLBe name (not the ID)
+- Re-apply Terraform with **a valid FortiFlex token.** This FortiFlex token will activate license of FortiAnalyzer-VM. 
 - Test connectivity
 
 ## Things to try
