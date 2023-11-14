@@ -2,6 +2,8 @@
 
 ## 1. Verify access
 
+[Lab Access Credentials](https://www.google.com)
+
 ### 1.1 AWS Console login
 ```
 account_id / studentxpert / <password will be shared during session>
