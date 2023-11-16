@@ -27,9 +27,8 @@ student<xx>@kubiosec.tech / <password will be shared during session>
 Use AWS region `eu-west-1` (Ireland) <br>
 Create an AWS Cloud9 instance using AWS Cloud9 service.
 
-### 2.2 Create an AWS access key and secret
-Login the AWS console and create an **access key** and **secret** under the IAM user `studentxpert`<br>
-Note the access key and secret for later usage.
+### 2.2  AWS access key and secret
+Key and secret is shared in credentials file. We will use the access key and secret for later usage during deployment.
 
 ### 2.3 Subscribe to following AWS Marketplace images
 
