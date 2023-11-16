@@ -2,7 +2,9 @@
 
 ## 1. Verify access
 
-[Lab Access Credentials](https://www.google.com)
+[Lab Access Credentials](https://fortinet.egnyte.com/dl/dgdmCdeeOO)
+
+Password: Z4szWxfR
 
 ### 1.1 AWS Console login
 ```
