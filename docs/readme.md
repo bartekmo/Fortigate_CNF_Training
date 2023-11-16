@@ -41,7 +41,7 @@ Click "Continue to Subscribe", then accept terms and conditions.
 Note: "Try for free" to activate 30-day Free Trial. If portal says "Trial is ended", continue with selecting specific Offer ID from dropdown list (PAYG). 
 
 ### 2.4 Clone the lab repository to Cloud9 instance 
-Clone following repo in `/environment` in your Cloud9 env
+Clone following repo in `/environment` in your Cloud9 environment.
 ```
 git clone https://github.com/ozanoguz/fortigate-cnf-sse-workshop.git
 ```
