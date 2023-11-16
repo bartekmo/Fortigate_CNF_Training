@@ -9,11 +9,17 @@ Password: Z4szWxfR
 ### 1.1 AWS Console login
 ```
 account_id / studentxpert / <password will be shared during session>
+
 ```
+
+[AWS Console Login](https://signin.aws.amazon.com/)
+
 ### 1.2 FortiCloud / FortigateCNF login
 ```
 student<xx>@kubiosec.tech / <password will be shared during session>
 ```
+
+[FortiGate CNF Login](https://fortigatecnf.com/admin-portal/authentication/login)
 
 ## 2. Prepare the lab environment
 
