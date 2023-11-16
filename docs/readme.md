@@ -2,7 +2,7 @@
 
 ## 1. Verify access
 
-[Lab Access Credentials](https://fortinet.egnyte.com/dl/dgdmCdeeOO)
+[Lab Credentials](https://fortinet.egnyte.com/dl/dgdmCdeeOO)
 
 Password: Z4szWxfR
 
