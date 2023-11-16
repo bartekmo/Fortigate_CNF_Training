@@ -38,7 +38,7 @@ Click "Continue to Subscribe", then accept terms and conditions.
 [Ubuntu](https://aws.amazon.com/marketplace/pp/prodview-o5bowpuwmx3ng)\
 [FortiAnalyzer](https://aws.amazon.com/marketplace/pp/prodview-6dt7z5twj7t7a?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)\
 [FortiGate CNF](https://aws.amazon.com/marketplace/pp/prodview-vtjjha5neo52i?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)\
-Note: "Try for free" to activate 30-day Free Trial. If portal says "Trial is ended", continue with selecting specific Offer ID from dropdown list. 
+Note: "Try for free" to activate 30-day Free Trial. If portal says "Trial is ended", continue with selecting specific Offer ID from dropdown list (PAYG). 
 
 ### 2.4 Clone the lab repository to Cloud9 instance 
 Clone following repo in `/environment` in your Cloud9 env
