@@ -47,7 +47,7 @@ See [lab1](./lab1.md)
 ## 3.2 LAB-2: Deploy a FortiGate CNF playground for Transit Gateway (TGW) use-case
 See [lab2](./lab2.md)
 
-### CLEAN-UP 
+## 4. CLEAN-UP 
 At the end of our session: 
 - Remove the endpoints form your TF `variables.tf`
 - Re-apply your Terraform
