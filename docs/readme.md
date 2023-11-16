@@ -2,10 +2,6 @@
 
 ## 1. Verify access
 
-[Lab Credentials](https://fortinet.egnyte.com/dl/dgdmCdeeOO)
-
-Password: Z4szWxfR
-
 ### 1.1 AWS Console login
 ```
 account_id / studentxpert / <password will be shared during session>
