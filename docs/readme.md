@@ -41,10 +41,10 @@ git clone https://github.com/ozanoguz/fortigate-cnf-sse-workshop.git
 
 ## 3. Deploy lab environments
 
-## 3.1 LAB-1: Deploy a FortiGate CNF playground for Intra-subnet / Single VPC scenario
+### 3.1 LAB-1: Deploy a FortiGate CNF playground for Intra-subnet / Single VPC scenario
 See [lab1](./lab1.md)
 
-## 3.2 LAB-2: Deploy a FortiGate CNF playground for Transit Gateway (TGW) use-case
+### 3.2 LAB-2: Deploy a FortiGate CNF playground for Transit Gateway (TGW) use-case
 See [lab2](./lab2.md)
 
 ## 4. CLEAN-UP 
