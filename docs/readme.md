@@ -1,4 +1,4 @@
-## Fortigate CNF lab
+## Fortigate CNF Hands-on Lab
 
 ## 1. Verify access
 
