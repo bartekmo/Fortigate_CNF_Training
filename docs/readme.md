@@ -23,7 +23,7 @@ student<xx>@kubiosec.tech / <password will be shared during session>
 Use AWS region `eu-west-1` (Ireland) <br>
 Create an AWS Cloud9 instance using AWS Cloud9 service.
 
-Hint#1 If there is no default VPC, create one using AWS console.
+Hint#1 If there is no default VPC, create one using AWS console. <br>
 Hint#2 While creating a Cloud9 environment, choose SSH option under Network settings.
 
 ### 2.2  AWS access key and secret
