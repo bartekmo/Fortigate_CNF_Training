@@ -2,6 +2,15 @@
 
 ## 1.1 Deploy the environment
 
+Install Terraform
+
+```
+wget https://releases.hashicorp.com/terraform/1.3.5/terraform_1.3.5_linux_amd64.zip
+unzip terraform_1.3.5_linux_amd64.zip
+sudo mv terraform /usr/local/bin/
+```
+
+
 Inside cloned repo, access the folder below:
 
 ```
