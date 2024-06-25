@@ -17,7 +17,7 @@ Inside cloned repo, access the folder below:
 cd ./fortigate-cnf-sse-workshop/terraform-single-vpc
 ```
 
-For first deployment of the lab, use a random FortiFlex token ID, because we will do another "terraform apply" in later stage.
+Execute terraform apply to create test environment including FortiAnalyzer-VM and test EC2s.
 
 ```
 terraform init
@@ -37,10 +37,12 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 ## 1.2 Deploy FortiGate CNF
 
 - Install / verify cross account setup
+  **Hint:** "us-east1" AWS region should be selected before deploying onboarding Cloudformation script.
 - Deploy FortiGate CNF and GWLB endpoints
 - Test connectivity
-- Update the "variables.tf" using GWLBe name (not the ID)
-- Re-apply Terraform with **a valid FortiFlex token.** This FortiFlex token will activate license of FortiAnalyzer-VM. 
+- Update the "variables.tf" using GWLBe name *(not the ID e.g. prod-c3144-s3522-endpoint-subnet-xyz)*
+- Re-apply Terraform
+- Activate FortiAnalyzer license using FortiFlex token 
 - Test connectivity
 
 ## 1.3 Things to try
