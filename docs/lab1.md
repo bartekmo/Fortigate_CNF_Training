@@ -36,7 +36,7 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 
 ## 1.2 Deploy FortiGate CNF
 
-- Install / verify cross account setup
+- Install / verify cross account setup </br>
   **Hint:** "us-east1" AWS region should be selected before deploying onboarding Cloudformation script.
 - Deploy FortiGate CNF and GWLB endpoints
 - Test connectivity
