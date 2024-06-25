@@ -38,7 +38,7 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 
 - Install / verify cross account setup </br>
   **Hint:** "us-east1" AWS region should be selected before deploying onboarding Cloudformation script.
-- Deploy FortiGate CNF and GWLB endpoints
+- Deploy FortiGate CNF and GWLB endpoint(s)
 - Test connectivity
 - Update the "variables.tf" using GWLBe name *(not the ID e.g. prod-c3144-s3522-endpoint-subnet-xyz)*
 - Re-apply Terraform
