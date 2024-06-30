@@ -3,8 +3,13 @@
 ## 1. Verify access
 
 ### 1.1 AWS Console login
+
+You can download following file for login credentials (including FortiAnalyzer token IDs). </br>
+
+[AWS & FortiCloud Credentials](https://abc.com)
+
 ```
-account_id / studentxpert / <password will be shared during session>
+account_id / studentxpert / <password is in the credentials file>
 
 ```
 
@@ -12,7 +17,7 @@ account_id / studentxpert / <password will be shared during session>
 
 ### 1.2 FortiCloud / FortigateCNF login
 ```
-student<xx>@kubiosec.tech / <password will be shared during session>
+student<xx>@kubiosec.tech / <password is in the credentials file>
 ```
 
 [FortiGate CNF Login](https://fortigatecnf.com/admin-portal/authentication/login)
