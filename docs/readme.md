@@ -10,10 +10,6 @@ You can download following file for login credentials (including FortiAnalyzer t
 [AWS & FortiCloud Credentials](https://github.com/ozanoguz/Fortgate_CNF_Training/releases/download/credentials/Xperts_Summit_CNF_Lab_Credentials.xlsx)
 -->
 
-You can download following file for login credentials (including FortiAnalyzer token IDs). </br>
-
-[AWS & FortiCloud Credentials](https://github.com/ozanoguz/Fortgate_CNF_Training/releases/download/credentials/Xperts_Summit_CNF_Lab_Credentials.xlsx)
-
 ```
 account_id / studentxpert / <password is in the credentials file>
 
