@@ -40,6 +40,7 @@ Click "Continue to Subscribe", then accept terms and conditions.
 
 [Ubuntu-Jammy](https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe)\
 [Ubuntu](https://aws.amazon.com/marketplace/pp/prodview-o5bowpuwmx3ng)\
+[Ubuntu for EKS](https://aws.amazon.com/marketplace/pp?sku=385xxn7yf520n6g1809rc0gyz)\
 [FortiAnalyzer](https://aws.amazon.com/marketplace/pp/prodview-6dt7z5twj7t7a?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)\
 [FortiGate CNF](https://aws.amazon.com/marketplace/pp/prodview-vtjjha5neo52i?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)\
 Note: "Try for free" to activate 30-day Free Trial. If portal says "Trial is ended", continue with selecting specific Offer ID from dropdown list (PAYG). 
