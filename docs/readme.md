@@ -30,6 +30,7 @@ Create an AWS Cloud9 instance using AWS Cloud9 service.
 
 Hint#1 If there is no default VPC, create one using AWS console. <br>
 Hint#2 While creating a Cloud9 environment, choose SSH option under Network settings.
+Hint#3 Do use 2CPU instance size
 
 ### 2.2  AWS access key and secret
 Key and secret is shared in credentials file. We will use the access key and secret for later usage during deployment.
